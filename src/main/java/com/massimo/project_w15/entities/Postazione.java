@@ -1,4 +1,4 @@
-package entities;
+package com.massimo.project_w15.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

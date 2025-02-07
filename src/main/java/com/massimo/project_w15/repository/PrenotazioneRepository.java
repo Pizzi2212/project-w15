@@ -1,6 +1,6 @@
-package repository;
+package com.massimo.project_w15.repository;
 
-import entities.Prenotazione;
+import com.massimo.project_w15.entities.Prenotazione;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.time.LocalDate;

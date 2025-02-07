@@ -1,11 +1,10 @@
 package services;
 
-import entities.Prenotazione;
+import com.massimo.project_w15.entities.Prenotazione;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.PrenotazioneRepository;
+import com.massimo.project_w15.repository.PrenotazioneRepository;
 
-import javax.swing.plaf.PanelUI;
 import java.util.List;
 
 @Service

@@ -1,6 +1,6 @@
-package controller;
+package com.massimo.project_w15.controller;
 
-import entities.Prenotazione;
+import com.massimo.project_w15.entities.Prenotazione;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
